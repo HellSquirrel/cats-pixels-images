@@ -1,14 +1,20 @@
-# Материалы к докладу "История пиксельных котиков. Что изменилось за 30 лет?"
+# Материалы к докладам про картинки и кодеки
 
-## О чем доклад?
-Об эволюции форматов изображений и видео за последние 30 лет
+## О чем доклады?
+О кодеках и разных форматах изображений
 
 ## Слайды
 
-[Слайды](https://speakerdeck.com/hellsquirrel/istoriia-piksiel-nykh-kotikov-chto-izmienilos-za-30-liet)
+[Слайды для Codefest](https://speakerdeck.com/hellsquirrel/davaitie-diekodiruiem-kodieki)
 
-## Выступление
-[IWD](https://www.youtube.com/watch?v=b7FtH75um-M)
+[Слайды для IWD](https://speakerdeck.com/hellsquirrel/istoriia-piksiel-nykh-kotikov-chto-izmienilos-za-30-liet)
+
+## Выступления
+
+- [IWD "История пиксельных котиков. Что изменилось за 30 лет?"](https://www.youtube.com/watch?v=b7FtH75um-M)
+  Об эволюции форматов изображений и видео за последние 30 лет
+  
+- Codefest: о кодеках и инструментах работы с ними
 
 ## Статьи
 
